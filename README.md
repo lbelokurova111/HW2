@@ -55,6 +55,10 @@
  
  <person xml:id="e">
  
+ </listPerson>
+ 
+ <listPerson type="geographical">
+ 
  <persName>Россия</persName>
  
  </person>
@@ -148,10 +152,10 @@
 Главы у гидры злой всечасно вновь рождались,
 И, жалы отрастив в глухих местах свои,
 Вползали паки в грудь <placeName>России</placeName> те змеи.
-Драконова глава лежала сокрушенна,
-Но древня злоба в нем была не потушенна;
+<person xml:id="c"><persName>Драконова</persName></person> глава лежала сокрушенна,
+Но древня злоба в <person xml:id="c"><persName>нем</persName></person> была не потушенна;
 Под пеплом крылся огнь и часто возгорал,
-Во смутны россов дни он силы собирал;
+Во смутны россов дни <person xml:id="c"><persName>он</persName></person> силы собирал;
 Неукротимых орд воскресла власть попранна
 Во время юности <person xml:id="b"><persName>второго Иоанна</persName></person>.
 <person xml:id="b"><persName>Сей деда храброго венчанный славой внук</persName></person>
