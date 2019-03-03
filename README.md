@@ -23,31 +23,53 @@
 
  <particDesc>
 
- <listPerson type="historical, mythological">
+ <listPerson type="historical">
 
- <person xml:id="01"> 
+ <person xml:id="a"> 
 
  <persName>Батый</persName>
 
  </person>
 
- <person xml:id="02">
+ <person xml:id="b">
 
- <persName>Дракон</persName>
+ <persName>Иоанн второй</persName>
 
  </person>
-                     
- <person xml:id="03">
-                     
- <persName>Иоанн второй</persName>
  
- <person>
+ </listPerson>
  
- <person xml:id="04">
+ <listPerson type="mythological">
+ 
+ <person xml:id="c">
+                     
+ <persName>Дракон</persName>
+ 
+ </person>
+ 
+ <person xml:id="d">
  
  <persName>Борей</persName>
  
- <person>
+ </person>
+ 
+ <person xml:id="e">
+ 
+ <persName>Россия</persName>
+ 
+ </person>
+ 
+ <person xml:id="f">
+ 
+ <persName>Казань</persName>
+ 
+ </person>
+ 
+ <person xml:id="g">
+ 
+ <persName>Москва</persName>
+ 
+ </person>
  
  </listPerson>
 
@@ -61,7 +83,7 @@
 Пою от варваров <placeName>Россию</placeName> свобожденну,
 Попранну власть татар и гордость низложенну;
 Движенье древних сил, труды, кроваву брань,
-<persName>России</persName> торжество, разрушенну <placeName>Казань</placeName>.
+<person xml:id="e"><persName>России</persName></person> торжество, разрушенну <placeName>Казань</placeName>.
 Из круга сих времен спокойных лет начало,
 Как светлая заря, в <placeName>России</placeName> воссияло.
 
@@ -98,27 +120,27 @@
 Без действа в поле плуг под тернами лежал,
 И пастырь в темный лес от стада убежал.
 Когда светило дня к полуночи взирало,
-Стенящу, страждущу <persName>Россию</persName> обретало.
-В <persName>ее</persName> объятиях рожденная <persName>Казань</persName>
-Из томных рук <persName>ее</persName> брала позорну дань;
-<persName>Сей град, российскими врагами соруженный,
-На полночь гордою горою возвышенный</persName>,
+Стенящу, страждущу <person xml:id="e"><persName>Россию</persName></person> обретало.
+В <person xml:id="e"><persName>ее</persName></person> объятиях рожденная <person xml:id="f"><persName>Казань</persName></person>
+Из томных рук <person xml:id="e"><persName>ее</persName></person> брала позорну дань;
+<person xml:id="f"><persName>Сей град, российскими врагами соруженный,
+На полночь гордою горою возвышенный</persName></person>,
 Подняв главу свою, при двух реках стоит,
 Отколе на брега шумящей <placeName>Волги</placeName> зрит.
 Под тению лесов, меж пестрыми цветами
-Поставлен <persName>Батыем</persName> ко северу вратами,
-Чрез кои в сердце <persName>он</persName> <placeName>России</placeName> выбегал,
+Поставлен <person xml:id="a"><persName>Батыем</persName></person> ко северу вратами,
+Чрез кои в сердце <person xml:id="a"><persName>он</persName></person> <placeName>России</placeName> выбегал,
 Селенья пустошил и грады пожигал.
 С вершины видя гор убийства и пожары,
 Где жили древние российские болгары,
 Разженны верою к закону своему,
-<persName>Казань</persName>, поверженна в магометанску тьму,
+<person xml:id="f"><persName>Казань</persName></person>, поверженна в магометанску тьму,
 В слезах на синий дым, на заревы взирала
 И руки чрез поля в <placeName>Россию</placeName> простирала;
 Просила помощи и света от князей,
-Когда злочестие простерло мраки в <persName>ней</persName>.
+Когда злочестие простерло мраки в <person xml:id="f"><persName>ней</persName></person>.
 Подвигнуты к странам природным сожаленьем,
-Народа <persName>своего</persName> бедами и томленьем,
+Народа <person xml:id="f"><persName>своего</persName></person> бедами и томленьем,
 На части полночь всю расторгшие князья
 Смиряли наглых орд, во бранях кровь лия.
 
@@ -126,28 +148,28 @@
 Главы у гидры злой всечасно вновь рождались,
 И, жалы отрастив в глухих местах свои,
 Вползали паки в грудь <placeName>России</placeName> те змеи.
-<persName>Драконова</persName> глава лежала сокрушенна,
-Но древня злоба в <persName>нем</persName> была не потушенна;
+Драконова глава лежала сокрушенна,
+Но древня злоба в нем была не потушенна;
 Под пеплом крылся огнь и часто возгорал,
-Во смутны россов дни <persName>он</persName> силы собирал;
+Во смутны россов дни он силы собирал;
 Неукротимых орд воскресла власть попранна
-Во время юности <persName>второго Иоанна</persName>.
-<persName>Сей деда храброго венчанный славой внук</persName>
+Во время юности <person xml:id="b"><persName>второго Иоанна</persName></person>.
+<person xml:id="b"><persName>Сей деда храброго венчанный славой внук</persName></person>
 Едва не выпустил <placeName>Казань</placeName> из слабых рук;
-Смутился дух <persName>его</persName> несчастливым походом,
-Где <persName>он</persName> начальствовал в войне прошедшим годом,
-Где сам <persName>Борей</persName> воздвиг противу россов брань,
+Смутился дух <person xml:id="b"><persName>его</persName></person> несчастливым походом,
+Где <person xml:id="b"><persName>он</persName></person> начальствовал в войне прошедшим годом,
+Где сам <person xml:id="d"><persName>Борей</persName></person> воздвиг противу россов брань,
 Крилами мерзлыми от них закрыв <placeName>Казань</placeName>;
-<persName>Он</persName> мрачной тучею и бурями увился,
+<person xml:id="d"><persName>Он</persName></person> мрачной тучею и бурями увился,
 Подобен грозному страшилищу явился,
 В глухой степи ревел, в лесу дремучем выл,
-Крутился между гор, <persName>он</persName> рвал, шумел, валил,
+Крутился между гор, <person xml:id="d"><persName>он</persName></person> рвал, шумел, валил,
 И, волжские струи на тучны двигнув бреги,
 Подул из хладных уст морозы, вихрь и снеги;
 Их пламенная кровь не стала россов греть,
 Дабы в наставший год жарчее воскипеть.
 
-В то время <persName>юный царь</persName> в столицу уклонился,
+В то время <person xml:id="b"><persName>юный царь</persName></person> в столицу уклонился,
 Где вместо гласа труб забавами пленился.
 О ты, на небесах живущий в тишине!
 Прости, великий царь, мою отважность мне,
@@ -156,7 +178,7 @@
 Велик, что бурю ты вкруг царства укротил,
 Но больше, что страстям душевным воспретил.
 
-Увидев, что <persName>Москва</persName>, оставив меч, уснула,
+Увидев, что <person xml:id="g"><persName>Москва</persName></person>, оставив меч, уснула,
 Трепещуща луна из облак проглянула;
 </text>
 </TEI>
