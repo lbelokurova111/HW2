@@ -42,34 +42,28 @@
  <listPerson type="mythological">
  
  <person xml:id="c">
-                     
- <persName>Дракон</persName>
- 
- </person>
- 
- <person xml:id="d">
  
  <persName>Борей</persName>
  
  </person>
  
- <person xml:id="e">
- 
  </listPerson>
  
- <listPerson type="geographical">
+ <listPerson type="allegorically geographical">
+ 
+ <person xml:id="d">
  
  <persName>Россия</persName>
  
  </person>
  
- <person xml:id="f">
+ <person xml:id="e">
  
  <persName>Казань</persName>
  
  </person>
  
- <person xml:id="g">
+ <person xml:id="f">
  
  <persName>Москва</persName>
  
@@ -87,7 +81,7 @@
 Пою от варваров <placeName>Россию</placeName> свобожденну,
 Попранну власть татар и гордость низложенну;
 Движенье древних сил, труды, кроваву брань,
-<person xml:id="e"><persName>России</persName></person> торжество, разрушенну <placeName>Казань</placeName>.
+<person xml:id="d"><persName>России</persName></person> торжество, разрушенну <placeName>Казань</placeName>.
 Из круга сих времен спокойных лет начало,
 Как светлая заря, в <placeName>России</placeName> воссияло.
 
@@ -124,10 +118,10 @@
 Без действа в поле плуг под тернами лежал,
 И пастырь в темный лес от стада убежал.
 Когда светило дня к полуночи взирало,
-Стенящу, страждущу <person xml:id="e"><persName>Россию</persName></person> обретало.
-В <person xml:id="e"><persName>ее</persName></person> объятиях рожденная <person xml:id="f"><persName>Казань</persName></person>
-Из томных рук <person xml:id="e"><persName>ее</persName></person> брала позорну дань;
-<person xml:id="f"><persName>Сей град, российскими врагами соруженный,
+Стенящу, страждущу <person xml:id="d"><persName>Россию</persName></person> обретало.
+В <person xml:id="d"><persName>ее</persName></person> объятиях рожденная <person xml:id="e"><persName>Казань</persName></person>
+Из томных рук <person xml:id="d"><persName>ее</persName></person> брала позорну дань;
+<person xml:id="e"><persName>Сей град, российскими врагами соруженный,
 На полночь гордою горою возвышенный</persName></person>,
 Подняв главу свою, при двух реках стоит,
 Отколе на брега шумящей <placeName>Волги</placeName> зрит.
@@ -138,13 +132,13 @@
 С вершины видя гор убийства и пожары,
 Где жили древние российские болгары,
 Разженны верою к закону своему,
-<person xml:id="f"><persName>Казань</persName></person>, поверженна в магометанску тьму,
+<person xml:id="e"><persName>Казань</persName></person>, поверженна в магометанску тьму,
 В слезах на синий дым, на заревы взирала
 И руки чрез поля в <placeName>Россию</placeName> простирала;
 Просила помощи и света от князей,
-Когда злочестие простерло мраки в <person xml:id="f"><persName>ней</persName></person>.
+Когда злочестие простерло мраки в <person xml:id="e"><persName>ней</persName></person>.
 Подвигнуты к странам природным сожаленьем,
-Народа <person xml:id="f"><persName>своего</persName></person> бедами и томленьем,
+Народа <person xml:id="e"><persName>своего</persName></person> бедами и томленьем,
 На части полночь всю расторгшие князья
 Смиряли наглых орд, во бранях кровь лия.
 
@@ -152,22 +146,22 @@
 Главы у гидры злой всечасно вновь рождались,
 И, жалы отрастив в глухих местах свои,
 Вползали паки в грудь <placeName>России</placeName> те змеи.
-<person xml:id="c"><persName>Драконова</persName></person> глава лежала сокрушенна,
-Но древня злоба в <person xml:id="c"><persName>нем</persName></person> была не потушенна;
+<person xml:id="a"><persName>Драконова</persName></person> глава лежала сокрушенна,
+Но древня злоба в <person xml:id="a"><persName>нем</persName></person> была не потушенна;
 Под пеплом крылся огнь и часто возгорал,
-Во смутны россов дни <person xml:id="c"><persName>он</persName></person> силы собирал;
+Во смутны россов дни <person xml:id="a"><persName>он</persName></person> силы собирал;
 Неукротимых орд воскресла власть попранна
 Во время юности <person xml:id="b"><persName>второго Иоанна</persName></person>.
 <person xml:id="b"><persName>Сей деда храброго венчанный славой внук</persName></person>
 Едва не выпустил <placeName>Казань</placeName> из слабых рук;
 Смутился дух <person xml:id="b"><persName>его</persName></person> несчастливым походом,
 Где <person xml:id="b"><persName>он</persName></person> начальствовал в войне прошедшим годом,
-Где сам <person xml:id="d"><persName>Борей</persName></person> воздвиг противу россов брань,
+Где сам <person xml:id="c"><persName>Борей</persName></person> воздвиг противу россов брань,
 Крилами мерзлыми от них закрыв <placeName>Казань</placeName>;
-<person xml:id="d"><persName>Он</persName></person> мрачной тучею и бурями увился,
+<person xml:id="c"><persName>Он</persName></person> мрачной тучею и бурями увился,
 Подобен грозному страшилищу явился,
 В глухой степи ревел, в лесу дремучем выл,
-Крутился между гор, <person xml:id="d"><persName>он</persName></person> рвал, шумел, валил,
+Крутился между гор, <person xml:id="c"><persName>он</persName></person> рвал, шумел, валил,
 И, волжские струи на тучны двигнув бреги,
 Подул из хладных уст морозы, вихрь и снеги;
 Их пламенная кровь не стала россов греть,
@@ -182,7 +176,7 @@
 Велик, что бурю ты вкруг царства укротил,
 Но больше, что страстям душевным воспретил.
 
-Увидев, что <person xml:id="g"><persName>Москва</persName></person>, оставив меч, уснула,
+Увидев, что <person xml:id="f"><persName>Москва</persName></person>, оставив меч, уснула,
 Трепещуща луна из облак проглянула;
 </text>
 </TEI>
